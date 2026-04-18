@@ -9,3 +9,4 @@ packages = {find = {}}
 
 [tool.setuptools.dynamic]
 dependencies = {file = "requirements.txt"}
+
